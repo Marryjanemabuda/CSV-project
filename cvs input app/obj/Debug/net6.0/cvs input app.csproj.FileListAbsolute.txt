@@ -1,0 +1,15 @@
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\bin\Debug\net6.0\cvs input app.exe
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\bin\Debug\net6.0\cvs input app.deps.json
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\bin\Debug\net6.0\cvs input app.runtimeconfig.json
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\bin\Debug\net6.0\cvs input app.dll
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\bin\Debug\net6.0\cvs input app.pdb
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.csproj.AssemblyReference.cache
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.AssemblyInfoInputs.cache
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.AssemblyInfo.cs
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.csproj.CoreCompileInputs.cache
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.dll
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\refint\cvs input app.dll
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.pdb
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\cvs input app.genruntimeconfig.cache
+C:\Users\Marryjanem\Desktop\Personal\CSV\cvs input app\obj\Debug\net6.0\ref\cvs input app.dll
